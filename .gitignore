@@ -1,0 +1,14 @@
+.DS_Store
+
+# Ignore downloaded datasets
+__pycache__/
+data/
+.ipynb_checkpoints/
+
+
+*.pyc
+*.p
+*.pkl 
+
+*/.floyd*
+
